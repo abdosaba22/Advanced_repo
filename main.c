@@ -1,5 +1,5 @@
 int main (){
-	int x=0;
+
 	int y = 2;
-	
+	int g = 20;
 }
